@@ -10,7 +10,6 @@
 |Empréstimo|RM_aluno|int|100|Identificador do aluno|
 |Empréstimo|ID_livro|int|100|Identificador da publicação emprestada|
 |Empréstimo|data|Date||Data de devolução do empréstimo|
-|Empréstimo|quantidade|int|1|Quantidade de publicações emprestadas|
 |Publicação|ID|int|100|Identificador da publicação|
 |Publicação|título|varchar||Nome da publicação|
 |Publicação|autor|varchar||Nome do autor da publicação|
